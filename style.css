@@ -102,3 +102,42 @@ table {
     margin-left: 10px;
 
 }
+
+.footer {
+
+    color:grey;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+}
+
+.footer1 {
+
+    margin-bottom: 5px;
+    margin-top: 20px;
+    background-image: url(./asset/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 208px;
+    width: 312px;
+    color: white;
+    text-align: center;
+    margin-left: 10px;
+
+
+}
+
+.footer2 {
+
+    background-image: url(./asset/graph.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 208px;
+    width: 312px;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
