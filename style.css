@@ -1,0 +1,55 @@
+* {
+   
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;  
+  
+}
+
+.booleanertitle {
+
+    border: 1px solid;color:rgb(106, 175, 255);
+    padding: 60px 0;
+    margin-bottom: 10px;
+    background-image:url(./asset/pattern.png);
+    background-repeat: repeat;
+    background-color: rgb(106, 175, 255);
+    
+}
+
+.logo {
+
+    height: 60px;
+    
+}
+
+.scritto {
+
+    font-size: 25px;
+}
+
+.boo {
+
+    font-size: 25px;
+    color: deepskyblue;
+}
+
+.data {
+
+    margin-top: 3px;
+    font-size: 15px;
+}
+
+.tim {
+
+    margin-top: 30px;
+}
+
+
+.text1 {
+
+    box-sizing: unset;
+    margin-left: 20px;
+}
+
+   
