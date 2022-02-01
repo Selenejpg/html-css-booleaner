@@ -74,6 +74,9 @@ table {
 
     margin-top: 20px;
     margin-left: 10px;
+    text-align: left;
+    border-spacing: 0;
+
 }
 
 .maintr {
@@ -140,4 +143,13 @@ table {
     margin-top: 10px;
     margin-left: 10px;
 
+}
+
+th {
+    width: 20%;
+}
+
+tr {
+
+    width: 20%;
 }
